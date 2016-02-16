@@ -1,0 +1,6 @@
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\Service\IOlib\IOlib\bin\Debug\IOlib.XML
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\Service\IOlib\IOlib\bin\Debug\IOlib.dll
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\Service\IOlib\IOlib\bin\Debug\IOlib.pdb
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\Service\IOlib\IOlib\obj\Debug\IOlib.csprojResolveAssemblyReference.cache
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\Service\IOlib\IOlib\obj\Debug\IOlib.dll
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\Service\IOlib\IOlib\obj\Debug\IOlib.pdb

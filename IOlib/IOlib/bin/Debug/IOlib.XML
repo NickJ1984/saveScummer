@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IOlib</name>
+    </assembly>
+    <members>
+        <member name="T:IOlib.directoryManager.sourceDirectoryNotExistException">
+            <summary>
+            Класс исключения: "Исходная папка не существует".
+            </summary>
+        </member>
+        <member name="M:IOlib.directoryManager.sourceDirectoryNotExistException.#ctor">
+            <summary>
+            Конструктор исключения: "Исходная папка не существует".
+            </summary>
+        </member>
+        <member name="T:IOlib.directoryManager.storedFolderNotFoundException">
+            <summary>
+            Класс исключения: "Сохраненная папка не найдена".
+            </summary>
+        </member>
+        <member name="M:IOlib.directoryManager.storedFolderNotFoundException.#ctor">
+            <summary>
+            Конструктор исключения: "Сохраненная папка не найдена".
+            </summary>
+        </member>
+        <member name="T:IOlib.directoryManager.storedFolderNotExistException">
+            <summary>
+            Класс исключения: "Сохраненная папка с таким именем отсутствует в хранилище".
+            </summary>
+        </member>
+        <member name="M:IOlib.directoryManager.storedFolderNotExistException.#ctor">
+            <summary>
+            Конструктор исключения: "Сохраненная папка с таким именем отсутствует в хранилище".
+            </summary>
+        </member>
+        <member name="T:IOlib.directoryManager.tagNotExistException">
+            <summary>
+            Класс исключения: "Тэг с таким именем не существует".
+            </summary>
+        </member>
+        <member name="M:IOlib.directoryManager.tagNotExistException.#ctor">
+            <summary>
+            Конструктор исключения: "Тэг с таким именем не существует".
+            </summary>
+        </member>
+        <member name="T:IOlib.directoryManager.tagAlreadyExistException">
+            <summary>
+            Класс исключения: "Тэг с таким именем уже существует в хранилище".
+            </summary>
+        </member>
+        <member name="M:IOlib.directoryManager.tagAlreadyExistException.#ctor">
+            <summary>
+            Конструктор исключения: "Тэг с таким именем уже существует в хранилище".
+            </summary>
+        </member>
+        <member name="T:IOlib.directoryManager.wrongParameterValueException">
+            <summary>
+            Класс исключения: "Некорректное значение параметра метода".
+            </summary>
+        </member>
+        <member name="M:IOlib.directoryManager.wrongParameterValueException.#ctor">
+            <summary>
+            Конструктор исключения: "Некорректное значение параметра метода".
+            </summary>
+        </member>
+        <member name="T:IOlib.IOmanager">
+            <summary>
+            Статический класс управления файловым вводом выводом
+            </summary>
+        </member>
+        <member name="M:IOlib.IOmanager.copyDirectory(System.String,System.String,System.Boolean)">
+            <summary>
+            Копирование директории.
+            </summary>
+            <param name="sourceDirectory">Полный путь к копируемой директории.</param>
+            <param name="destinationPath">Путь назначения.</param>
+            <param name="copySubdirectories">Истина - копировать все поддиректории.</param>
+        </member>
+        <member name="M:IOlib.IOmanager.copyDirectory(System.String,System.String)">
+            <summary>
+            Копирование директории с поддиректориями.
+            </summary>
+            <param name="sourceDirectory">Полный путь к копируемой директории.</param>
+            <param name="destinationDirectory">Полный путь назначения.</param>
+        </member>
+        <member name="M:IOlib.IOmanager.moveDirectory(System.String,System.String)">
+            <summary>
+            Перемещение директории.
+            </summary>
+            <param name="sourceDirectory">Полный путь к перемещаемой директории.</param>
+            <param name="destinationPath">Путь назначения.</param>
+        </member>
+    </members>
+</doc>
