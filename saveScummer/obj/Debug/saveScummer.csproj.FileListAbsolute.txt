@@ -1,1 +1,8 @@
 C:\Users\NickJ\Documents\Visual Studio 2015\Projects\inDevelop\saveScummer\saveScummer\bin\Debug\saveScummer.exe.config
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\inDevelop\saveScummer\saveScummer\bin\Debug\saveScummer.exe
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\inDevelop\saveScummer\saveScummer\bin\Debug\saveScummer.pdb
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\inDevelop\saveScummer\saveScummer\obj\Debug\saveScummer.csprojResolveAssemblyReference.cache
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\inDevelop\saveScummer\saveScummer\obj\Debug\saveScummer.Properties.Resources.resources
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\inDevelop\saveScummer\saveScummer\obj\Debug\saveScummer.csproj.GenerateResource.Cache
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\inDevelop\saveScummer\saveScummer\obj\Debug\saveScummer.exe
+C:\Users\NickJ\Documents\Visual Studio 2015\Projects\inDevelop\saveScummer\saveScummer\obj\Debug\saveScummer.pdb

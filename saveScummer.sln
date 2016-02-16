@@ -5,7 +5,9 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saveScummer", "saveScummer\saveScummer.csproj", "{6F16BFD8-06E3-4CA5-92EB-20262E9AF96C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOlib", "..\..\Service\IOlib\IOlib\IOlib.csproj", "{55761ECD-BBAF-41B5-BEAF-CE6D120C2EED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOlib", "IOlib\IOlib\IOlib.csproj", "{55761ECD-BBAF-41B5-BEAF-CE6D120C2EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testConsole", "testConsole\testConsole.csproj", "{6D5DB6F1-3FC9-4383-8E47-6F08D6C5A35C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{55761ECD-BBAF-41B5-BEAF-CE6D120C2EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55761ECD-BBAF-41B5-BEAF-CE6D120C2EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55761ECD-BBAF-41B5-BEAF-CE6D120C2EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5DB6F1-3FC9-4383-8E47-6F08D6C5A35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5DB6F1-3FC9-4383-8E47-6F08D6C5A35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5DB6F1-3FC9-4383-8E47-6F08D6C5A35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5DB6F1-3FC9-4383-8E47-6F08D6C5A35C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
